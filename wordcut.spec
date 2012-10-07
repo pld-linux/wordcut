@@ -1,4 +1,3 @@
-# $Revision: 1.21 $, $Date: 2011/07/16 18:25:43 $
 Summary:	Thai word segmentation utility
 Summary(pl.UTF-8):	Narzędzie do dzielenia słów w języku tajskim
 Name:		wordcut
